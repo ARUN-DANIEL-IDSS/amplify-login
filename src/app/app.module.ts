@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { Amplify } from 'aws-amplify';
-import { AmplifyAuthenticatorModule } from '@aws-amplify/ui-angular';
+import { AmplifyAuthenticatorModule } from '../../projects/ui-angular/src';
 
 
 
